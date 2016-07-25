@@ -1,2 +1,2 @@
-# Starto
-This is a test repo
+## Starto
+*This is a test repo
